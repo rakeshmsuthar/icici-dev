@@ -1,5 +1,8 @@
 {
   "name": "@rakeshmsuthar/icici-dev",
+  "publishConfig": {
+    "@rakeshmsuthar:registry": "https://npm.pkg.github.com"
+  },
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
